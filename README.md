@@ -1,4 +1,4 @@
-<h1>biblioteca geração e validação de código EAN</h1>
+<h1>Biblioteca geração e validação de código EAN</h1>
 <hr/>
 
 <p>
