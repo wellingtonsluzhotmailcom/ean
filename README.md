@@ -2,7 +2,7 @@
 <hr/>
 
 <p>
-<span style='margin-left:10px'>E</span>stá biblioteca tem por finalidade gerar, validar o código E calcular digito verificador o código numérico EAN11, EAN12 e EAN13.
+<span style='margin-left:10px'>E</span>stá biblioteca tem por finalidade gerar, validar o código e calcular digito verificador o código numérico EAN11, EAN12 e EAN13.
 </p>
 <a href="https://github.com/wellingtonsluzhotmailcom/ean/raw/master/Ean/dist/Ean.jar">download .jar</a>
 
